@@ -24,7 +24,7 @@ Focused on designing production-ready APIs, microservices architectures, databas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,redis,kafka,docker,git,github,linux,aws" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,redis,kafka,docker,git,github" />
 
 </div>
 
@@ -46,7 +46,7 @@ Focused on designing production-ready APIs, microservices architectures, databas
 
 # 🚀 Featured Projects
 
-## 🛒 Scalable E-Commerce Microservices Platform
+### 🛒 [E-Commerce Backend Application](https://github.com/thulasiram1380/Ecommerce-Backend.git)
 
 A production-grade microservices-based e-commerce platform designed for scalability, fault tolerance, and cloud-native deployment.
 
@@ -66,7 +66,7 @@ A production-grade microservices-based e-commerce platform designed for scalabil
 
 ---
 
-## ⚡ API Rate Limiting System
+### 🚦 [Rate Limiter API](https://github.com/thulasiram1380/Rate-Limiter-API)
 
 A high-performance API protection system designed to prevent abuse, control traffic, and improve system reliability.
 
