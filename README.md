@@ -97,10 +97,3 @@ A high-performance API protection system designed to prevent abuse, control traf
 
 </div>
 
----
-
-<div align="center">
-
-### Designing scalable systems, one service at a time.
-
-</div>
