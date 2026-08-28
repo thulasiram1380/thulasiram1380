@@ -89,9 +89,9 @@ A high-performance API protection system designed to prevent abuse, control traf
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN](https://www.linkedin.com/in/thulasiram-java/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thulasiram-java/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)]([YOUR_LEETCODE](https://leetcode.com/u/Thulasiram_P/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Thulasiram_P/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/thulasiram1380)
 
